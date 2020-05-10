@@ -1,0 +1,5 @@
+Every new building requires the following to be added into the game:
+1. A sprite for the building
+2. A sprite for the button 
+3. An inherited script with the functionality for the specific building
+4. unit tests for bespoke methods 
